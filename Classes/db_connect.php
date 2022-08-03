@@ -33,11 +33,7 @@ class ConnectDB
 	*/
 	
 	/* OVH 
-    private $mysql_db_host = 'reivaxweiradmind.mysql.db';
-    private $mysql_db_user = 'reivaxweiradmind';
-    private $mysql_db_pass = 'Redalert1';
-    private $mysql_db_name = 'reivaxweiradmind';
-    private $mysql_db_port = '3306';
+voir drive Developpement/Login BDD/github.txt
 	*/
 
     // The db connection is established in the private constructor.
